@@ -1,1 +1,3 @@
+API extract through Python --> Beautysoup --> SQL data analysis 
+
 In this section, I demonstrate my ability to extract, analyze, and interpret data by leveraging APIs and web scraping techniques using BeautifulSoup. The retrieved data is then processed and analyzed through SQL to uncover meaningful insights. By combining these tools, I efficiently gather structured and unstructured data, clean and transform it, and apply various analytical techniques to derive valuable conclusions. This project showcases my proficiency in data extraction, database management, and analytical reasoning, highlighting my ability to work with real-world datasets to generate actionable insights.
