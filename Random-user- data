@@ -13,3 +13,4 @@ for i in range(10):
       f.write(picture.content)
       f.close()
       print(f"Saved {filename}")
+
